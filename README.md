@@ -4,6 +4,12 @@ Android app with firebase that enables the user to manage personal and organizat
 This project is currently in development. Users can add and manage tasks, split the tasks to subtasks and assign subtasks to subordinate in any of their organizations.
 Also users can look up organizations and apply for them , manage incoming invitations , add and manage organizations, invite members , manage their privileges and edit the organization hierarchy
 ## Screen shots
+![alt text](https://imgur.com/HjqADi1.png)
+![alt text](https://imgur.com/gO84rtr.png)
+![alt text](https://imgur.com/bzTOCUB.png)
+![alt text](https://imgur.com/3cinL4W.png)
+![alt text](https://imgur.com/BcWA0oX.png)
+![alt text](https://imgur.com/e5pFk4x.png)
 # Reflection
 This is a personal project to practise java for android and firebase.
 
